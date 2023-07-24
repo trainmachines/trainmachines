@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @trainmachines
-- 👀 I’m interested in AI and XR
-- 🌱 I’m currently learning more about DL, RL, and XR
+- 👀 I’m interested in ai and xr
+- 🌱 I’m currently learning more about dl, rl, and xr
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ...
 
